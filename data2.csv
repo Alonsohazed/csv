@@ -1,0 +1,101 @@
+first_name,app_name,boolean,city,currency,stockmarketcap
+Dur,Bytecard,false,Lons-le-Saunier,Euro,$481M
+Osborne,Stringtough,true,Tandel,Euro,n/a
+Mortimer,Asoka,true,Aksu,Tenge,$36.76B
+Arnuad,Regrant,true,Cái Dầu,Dong,$2.49B
+Emlyn,Cookley,true,Buyende,Shilling,$31.27M
+Leicester,Cardguard,false,Guoxiang,Yuan Renminbi,$485.31M
+Wendy,Solarbreeze,false,Sila Lat,Baht,$7.6B
+Grannie,Solarbreeze,true,Monino,Ruble,$77.99M
+Fitz,Latlux,false,Kariaí,Euro,$1.03B
+Beth,Tampflex,false,Hashtgerd,Rial,$8.39B
+Blithe,Ventosanzap,false,Port Elizabeth,Dollar,$6.07B
+Mead,Prodder,true,Tianyuan,Yuan Renminbi,$53.99M
+Dilly,Regrant,true,Heliconia,Peso,$20.68B
+Steffen,Treeflex,false,Viana do Alentejo,Euro,$3.68B
+Nilson,Fixflex,true,San Pablo,Sol,n/a
+Teddy,Ronstring,false,Dijon,Euro,$2.09B
+Immanuel,Toughjoyfax,true,Mentougou,Yuan Renminbi,$1.35B
+John,Alphazap,false,Ribeira,Euro,$37.75M
+Griffie,Sonsing,true,Harian,Rupiah,$11.3B
+Letty,Zamit,false,Aoqiao,Yuan Renminbi,$67.58M
+Ibbie,Treeflex,true,Wangzuo,Yuan Renminbi,$5.99B
+Austine,Viva,true,Fantan,Dram,$20.84M
+Madelina,Domainer,true,Enzan,Yen,$24.07B
+Greer,Bigtax,true,Darwin,Peso,n/a
+Reyna,Bigtax,true,Zoetermeer,Euro,$137.47M
+Tarrance,Regrant,false,Zhongcun,Yuan Renminbi,$29.15M
+Brendon,Y-Solowarm,true,Komsomolets,Tenge,$1.09B
+Aubrette,Solarbreeze,true,Dieppe,Euro,$27.17B
+Oby,Duobam,true,Chotcza,Zloty,$201.51M
+Dorree,Keylex,false,Hartswater,Rand,$6.7M
+Fitz,Asoka,false,Videira,Real,$184.11M
+Pattin,Bigtax,false,Junxi,Yuan Renminbi,n/a
+Alan,Sub-Ex,true,Shaami-Yurt,Ruble,$684.03M
+Marmaduke,Zoolab,false,Łęki Szlacheckie,Zloty,$472.1B
+Clarke,Voltsillam,true,Konstancin-Jeziorna,Zloty,$2.67B
+Dalenna,Asoka,true,Örebro,Krona,$7.26M
+Parsifal,Trippledex,true,Krajanjugosari,Rupiah,$7.04B
+Isabeau,Treeflex,false,Giraldo,Peso,$1.2B
+Giustino,Flexidy,true,Itanhandu,Real,n/a
+Robinet,Bytecard,false,El Zapote,Peso,$71.11M
+Dulcy,Bamity,false,Yankou,Yuan Renminbi,$9.85B
+Basilio,Bigtax,false,Quince Mil,Sol,n/a
+Rodolfo,Y-Solowarm,true,Pamplona/Iruña,Euro,$1.94B
+Maddalena,Vagram,true,Tiébo,Franc,$432.95M
+Candice,Sonair,true,Mangunjaya,Rupiah,n/a
+Candi,Flowdesk,false,Manyava,Hryvnia,$51.8B
+Harley,Toughjoyfax,true,Muarapinang,Rupiah,n/a
+Kaye,Job,false,Dongyangzhen,Yuan Renminbi,$95.34M
+Otha,Y-Solowarm,true,Villa Nueva,Lempira,$1.37B
+Belicia,Zamit,false,Yangyuan,Yuan Renminbi,$60.57M
+Reena,Prodder,true,Fuwah,Pound,n/a
+Noach,Asoka,true,Loma Bonita,Peso,$9.54M
+Phineas,Holdlamis,false,Phra Yuen,Baht,$658.35M
+Lanita,Cardguard,true,Littleton,Dollar,$1.13B
+Benito,Greenlam,false,Muaratiga,Rupiah,$83.27M
+Celina,Fix San,false,Saint-Louis du Nord,Gourde,$8.13B
+Becki,Mat Lam Tam,false,Flen,Krona,$885.73M
+Trixi,Y-Solowarm,true,Spasskoye,Ruble,n/a
+Elvin,Namfix,false,Cirangkong,Rupiah,$2.45B
+Herby,Solarbreeze,false,Adelaide Mail Centre,Dollar,$133.53M
+Joby,Duobam,false,Artur Nogueira,Real,$29.49M
+Tallie,Bitchip,false,Bamut,Ruble,n/a
+Sutherland,Voyatouch,false,Khān Shaykhūn,Pound,$569.62M
+Kin,Tresom,false,Bocana de Paiwas,Cordoba,n/a
+Carole,Tampflex,false,Umm Ruwaba,Pound,$1.62B
+Honoria,Overhold,false,Shuakhevi,Lari,$213.57M
+Kassi,Flexidy,false,Minneapolis,Dollar,$211.4M
+Juline,Veribet,false,Zhemtala,Ruble,$166.93B
+Kearney,Mat Lam Tam,true,Mlanggeng,Rupiah,$304.81M
+Stillmann,Redhold,true,Lipie,Zloty,$183.18B
+Karl,Keylex,false,General Viamonte,Peso,$394.2M
+Fulvia,Domainer,false,Changsha,Yuan Renminbi,$442.3M
+Dale,Opela,true,Sabang,Peso,$384.84M
+Camella,Stim,true,London,Dollar,$4.72B
+Conni,Sonsing,true,Gaoqiao,Yuan Renminbi,$58.06M
+Had,Greenlam,true,Īlām,Rial,$114.59M
+Melvin,Y-find,true,Al Mushannaf,Pound,$7.35B
+Therese,Stim,false,Putina,Sol,n/a
+Margarete,Subin,true,Navariya,Hryvnia,n/a
+Lennard,Duobam,false,Dao,Peso,$323.6M
+Aurthur,Asoka,true,Sukhobuzimskoye,Ruble,$445.08M
+Vaughan,Wrapsafe,false,Rancabugel,Rupiah,$2.18B
+Aurel,Sonsing,true,Água Retorta,Euro,$2.65B
+Skipper,Bigtax,true,Alto de la Estancia,Balboa,n/a
+Afton,Stringtough,false,Moravče,Euro,$1.39B
+Odetta,Y-find,false,Na'ale,Shekel,$246.04M
+Konrad,Bigtax,true,Tong’an,Yuan Renminbi,$169.37M
+Arlina,Lotlux,false,Beirut,Pound,$2.01B
+Gael,Alpha,false,Novoanninskiy,Ruble,$568.57M
+Llewellyn,Andalax,true,Reconquista,Peso,$20.99B
+Daniel,Zoolab,false,Gan Yavne,Shekel,$70.55M
+Amie,Gembucket,true,Monte,Euro,$8.56B
+Leelah,Aerified,false,Otra Banda,Peso,n/a
+Netti,Trippledex,false,Gorki Vtoryye,Ruble,n/a
+Abie,Pannier,true,Bibinje,Kuna,$6.43B
+Andrey,Prodder,true,Vĩnh Tường,Dong,$1.37B
+Silvana,Tres-Zap,false,Soubré,Franc,$2B
+Cybill,Tempsoft,false,Masaki-chō,Yen,$6.74M
+Leticia,Zamit,false,Miraflores,Euro,$163.2M
+Kit,Toughjoyfax,true,Kapenguria,Shilling,$930.51M
